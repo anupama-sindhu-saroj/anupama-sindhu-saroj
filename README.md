@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/056/036/393/large/cozy-oni-cozyoninight.jpg?1668322408">
 ## 🌐 Socials:
-[![LinkedIn]https://linkedin.com/in/ANUPAMA SAROJ) [![Pinterest](https://pinterest.com/ANUPAMA SAROJ) [![email](mailto:anupamaixb04@gmail.com) 
+[![LinkedIn]https://linkedin.com/in/ANUPAMA SAROJ) [![Pinterest](https://pinterest.com/ANUPAMA SAROJ) [![email](anupamaixb04@gmail.com) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
